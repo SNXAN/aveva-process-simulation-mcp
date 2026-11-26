@@ -1,0 +1,14 @@
+{
+  "default_unit": "SI",
+  "log_level": "INFO",
+  "connection_timeout": 30,
+  "dynamics_run_duration": 10.0,
+  "snapshot_name": "",
+  "udp": {
+    "bind_ip": "127.0.0.1",
+    "peer_ip": "127.0.0.1",
+    "receive_port": 5005,
+    "send_port": 5006,
+    "command_format": "json"
+  }
+}
